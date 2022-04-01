@@ -2,3 +2,6 @@
 	path = aem-dispatcher
 	url = https://github.com/ez-aem-helpers/aem-dispatcher.git
 	branch = main
+[submodule "aem-workfront-connector"]
+	path = aem-workfront-connector
+	url = https://github.com/ez-aem-helpers/aem-workfront-connector.git
